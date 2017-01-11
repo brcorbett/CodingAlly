@@ -27,9 +27,9 @@ h1, h2, h3 {
 // Background Gradient
 .navbar, .home-callout {
     //Gradient provided by @_ighosh at uiGradients.com
-    background: #67B26F; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to left, #67B26F , #4ca2cd); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to left, #67B26F , #4ca2cd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #757F9A; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #757F9A , #D7DDE8); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #757F9A , #D7DDE8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 //Nav Styles
@@ -58,7 +58,7 @@ h1, h2, h3 {
 .navbar-default .navbar-toggle {
     border: 2px solid white;
     &:hover, &:focus{
-        background-color: #4ca2cd ;
+        background-color: #757F9A ;
     }
 }
 
